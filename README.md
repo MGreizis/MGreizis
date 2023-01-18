@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mārtiņš</h1>
 <h3 align="center">A student, just studying the so-called "game" of Software Development</h3>
 
-- 🔭 I’m currently working on **multiple random projects**
+- 🔭 I’m currently working on **various software projects**
 
 - 🌱 I’m currently learning **Java, Python**
 
