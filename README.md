@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **various software projects**
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **Java, Python and Rust**
 
 - 📫 How to reach me **grei0003@hz.nl**
 
